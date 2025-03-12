@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Ümmügülsüm Sümer. This is my third year at Bilkent University and I'm a CS student.
+I'm Ümmügülsüm Sümer. I am a senior CS student at Bilkent University .
 
 <!--
 **ummigs/ummigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
